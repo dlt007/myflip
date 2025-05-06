@@ -1,0 +1,46 @@
+https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/
+
+
+
+dflip
+    css
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/css/dflip.min.css
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/css/themify-icons.min.css
+    font
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/fonts/themify.eot
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/fonts/themify.svg
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/fonts/themify.ttf
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/fonts/themify.woff
+    images 
+        pdfjs
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-check.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-paragraph.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-note.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-noicon.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-newparagraph.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-key.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-insert.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-help.svg
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/pdfjs/annotation-comment.svg
+
+        textures
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/textures/white.jpg
+
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/chrome-extension.png
+        https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/images/loading.gif
+
+        js
+            libs
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/compatibility.js
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/three.min.js
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/pdf.worker.min.js
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/pdf.min.js
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/mockup.min.js
+                https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/libs/jquery.min.js
+
+            https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/dflip/js/dflip.min.js
+        sound
+
+
+
+https://cdn.jsdelivr.net/gh/dlt007/myflip@latest/sum.pdf
