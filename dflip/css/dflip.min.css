@@ -1690,3 +1690,10 @@ body.df-lightbox-open {
 .df-custom-fullscreen.df-fullscreen[backgroundcolor='transparent'] {
     background: gray !important
 }
+
+.container{
+    background-color: #00ff1500;
+    height: 100vh;
+  
+  }
+  
