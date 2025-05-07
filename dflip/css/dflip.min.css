@@ -46,6 +46,8 @@
     z-index: 999999
 }
 
+
+ /* change color load */
 .df-container .loading-info {
     position: absolute;
     top: 100%;
@@ -148,6 +150,7 @@
     background-position: 50%
 }
 
+/* change */
 .df-container.df-loading:before {
     background-color: white;
     -webkit-border-radius: 50px;
@@ -522,6 +525,8 @@
     padding: 20px 16px 0
 }
 
+
+/* change */
 .df-ui-wrapper,
 .df-ui-btn {
     color: #888;
@@ -632,10 +637,12 @@ span.df-share-title {
     float: left
 }
 
+/* change */
 .df-ui-btn:hover {
     color: #00acce
 }
 
+/* change */
 .df-ui-btn.disabled,
 .df-ui-btn.disabled:hover {
     color: #ccc
@@ -867,6 +874,8 @@ span.df-share-title {
     border-right: 1px solid #ddd
 }
 
+
+/* change */
 .df-ui-btn.df-active {
     color: #00acce;
     background-color: #e7e7e7
